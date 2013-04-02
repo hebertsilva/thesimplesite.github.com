@@ -1,0 +1,92 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville);
+
+body {
+	background: #E2E1E2;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 12px;
+	overflow: hidden;
+}
+
+.content-slide-0 {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: #203239;
+	/*float: left;*/
+}
+
+.content-slide-0 .grid-home {
+	width: 872px;
+	height: 286px;
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	margin: -143px 0 0 -436px;
+}
+
+.content-slide-0 .grid-home .bol-tags {
+	width: 285px;
+	height: 285px;
+	/*background: #354851; */
+	border-radius: 100%;
+	float: left;
+	background: url('../images/home/bol_tags.png') no-repeat;
+}
+
+.content-slide-0 .grid-home .title-site {
+	float: right;
+	width: 582px;
+}
+
+.content-slide-0 .grid-home .title-site h1 {
+	color: #91D1DA;
+	font-size: 3.2em;
+	font-weight: 900;
+	font-family: 'Ubuntu', sans-serif;
+	margin-left: -10px;
+}
+
+.content-slide-0 .grid-home .title-site .size-1 {
+	display: block;
+	color: #F2F2F2;
+	font-size: 1.8em;
+	margin-left: 24px;
+}
+
+.content-slide-0 .grid-home .title-site blockquote, p {
+	font-family: 'Libre Baskerville', serif;
+	color: #F2F2F2;
+	font-size: 20px;
+	margin: 22px 0 0 28px;
+}
+
+.content-slide-0 .grid-home .title-site p { 
+	margin-top: 15px;
+}
+
+.content-slide-0 .grid-home .title-site .button-enter {
+	padding: 6px 0;
+	background: #F0C141;
+	font-size: 24px;
+	font-weight: 700;
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+	color: #203239;
+	border-radius: 8px;
+	margin: 49px 0 0 28px;
+	display: block;
+	width: 200px;
+}
+
+/*
+	END CSS HOME
+*/
+
+
+/* 
+	INIT CSS PAGE 2
+*/
+
